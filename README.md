@@ -1,2 +1,3 @@
 # keeper-App
-keeper App builded with react js 
+keeper App builded with react js here is codesandbox link https://t3p3rs.csb.app/
+there is separate components(note.jsx,delete.jsx,component.jsx) linked with App.jsx free to fork it...
